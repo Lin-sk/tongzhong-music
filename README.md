@@ -20,3 +20,8 @@ Open `http://localhost:8080` to visit the page that uses the production build.
 
 ## License
 MIT
+
+## 技术栈
+浏览器端：React + React Router + Redux
+主要 React 组件库：Ant Design
+服务器端：Node.js + MongoDB
